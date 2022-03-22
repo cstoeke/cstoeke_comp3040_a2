@@ -35,3 +35,13 @@ https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/
 Theme by ![mattgraham](https://twitter.com/mattgraham)
 
 Special thanks to Andrew Etter for his book *Modern Technical Writing*.
+
+
+- - -
+## FAQ
+
+### Why is Markdown better than a word processor?  
+- Markdown allows for better control that is more widely applicable than typical word processor formats, as well as its simple syntax is quick and easy to learn.
+
+### Why is my resume theme not updating?  
+- If you are using a Jekyll-based theme and changing it through the repository settings, it may take anywhere between 5-20 minutes to update. Be patient, refresh the page, and check back later if it's still not updating. 
