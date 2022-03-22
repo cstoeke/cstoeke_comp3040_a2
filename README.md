@@ -22,7 +22,16 @@ Relate the practical steps described above to the general principles of current 
 https://www.markdownguide.org/cheat-sheet
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
-### Authors and Acknowledgments: 
-Arman Preet Singh, Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke, 
+## Authors and Acknowledgments: 
+### Group Members: 
+- Aman Preet Singh
+- Johnson Makumator-Jones
+- Hong Gao
+- Adam Kroeker
+
+### Author: 
+- Cain Stoeke
 
 Theme by ![mattgraham](https://twitter.com/mattgraham)
+
+Special thanks to Andrew Etter for his book *Modern Technical Writing*.
