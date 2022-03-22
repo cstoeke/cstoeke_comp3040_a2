@@ -24,3 +24,5 @@ https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/
 
 ### Authors and Acknowledgments: 
 Arman Preet Singh, Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke, 
+
+Theme by ![mattgraham](https://twitter.com/mattgraham)
