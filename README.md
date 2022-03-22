@@ -1,4 +1,4 @@
-# README.MD
+# How to host a resume on GitHub Pages using Jekyll and Markdown
 - - - 
 ### Purpose: 
 Describe the practical steps of how to host and format a resume using Markdown, GitHub Pages, and Jekyll.
