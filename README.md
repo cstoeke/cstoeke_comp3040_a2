@@ -1,13 +1,22 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# README.MD
+- - - 
+### Purpose: 
+Describe the practical steps of how to host and format a resume using Markdown, GitHub Pages, and Jekyll.
+### Secondary Purpose: 
+Relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing
+### Prerequisites: 
+Markdown formatted resume: https://cstoeke.github.io/cstoeke_comp3040_a2/index
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+- - -
+**Instructions:**
 
-Oh! I haven't introduced myself...
+1.  
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+- - -
+### More Resources: 
+https://www.markdownguide.org/cheat-sheet
+https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
-I'll meet you over there, can't wait to get started!
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+### Authors and Acknowledgments: 
+Arman Preet Singh, Johnson Makumator-Jones, Hong Gao, Adam Kroeker, Cain Stoeke, 
