@@ -8,8 +8,9 @@ Relate the practical steps described above to the general principles of current 
 Markdown formatted resume: https://cstoeke.github.io/cstoeke_comp3040_a2/index
 
 - - -
-**Instructions:**
+![animated gif](https://media.giphy.com/media/2WD7iXievQaqFm2T7p/giphy.gif)
 
+**Instructions:**
 1.  
 
 
