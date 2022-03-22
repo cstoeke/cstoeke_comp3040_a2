@@ -5,12 +5,15 @@ Describe the practical steps of how to host and format a resume using Markdown, 
 ### Secondary Purpose: 
 Relate the practical steps described above to the general principles of current Technical Writing, as explained in Andrew Etter’s book Modern Technical Writing
 ### Prerequisites: 
-Markdown formatted resume: https://cstoeke.github.io/cstoeke_comp3040_a2/index
+- A Markdown formatted resume (Example in mine: https://cstoeke.github.io/cstoeke_comp3040_a2/index )
+- A GitHub account
+- Jekyll 
 
 - - -
 ![animated gif](https://media.giphy.com/media/2WD7iXievQaqFm2T7p/giphy.gif)
 
 **Instructions:**
+
 1.  
 
 
