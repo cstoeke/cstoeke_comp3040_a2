@@ -1,7 +1,4 @@
 ---
-title: "README.md"
-date: 2022-03-22
----
 # README.MD
 - - - 
 ### Purpose: 
