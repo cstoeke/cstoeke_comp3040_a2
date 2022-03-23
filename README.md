@@ -20,6 +20,13 @@ Relate the practical steps described above to the general principles of current 
 
 3.  *Add README.md and _config.yml files to your repository.* The _config.yml file will look something similar to the following: 
 
+`title: My Resume`
+
+`author: Cain Stoeke`
+
+`email: cstoeke5@gmail.com`
+
+`theme: jekyll-theme-midnight`
 
 - - -
 ### More Resources: 
