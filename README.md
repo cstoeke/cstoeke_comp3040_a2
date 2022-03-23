@@ -14,9 +14,11 @@ Relate the practical steps described above to the general principles of current 
 
 **Instructions:**
 
-1.  *Create your resume using a Markdown-formatted file.* You can either generate the Markdown styling yourself in something as simple as notepad, or use an online editor such as ![dillinger](https://dillinger.io/) to live preview as you type and make changes. Once you have finished creating your resume and are satisfied with the results, make sure to save it as a Markdown file, with the extension of *.md*. We want to name this file "*index.md*" in order to save some time in the following steps. 
+1.  *Create your resume using a Markdown-formatted file.* You can either generate the Markdown styling yourself in something as simple as notepad, or use an online editor such as ![dillinger](https://dillinger.io/) to live preview as you type and make changes. Once you have finished creating your resume and are satisfied with the results, make sure to save it as a Markdown file, with the extension of *.md*. We want to name this file "*index.md*" in order to save some time in the following steps. Ensure that you update your resume for each job you are applying for, as is in accordance with Andrew Etter's recommendations for defining the audience in his book *Modern Technical Writing*. 
 
-2.  *Create a new repository in your GitHub account to host your resume.* If you do not already have a ![GitHub](https://github.com) account, be sure to create one with professional information, as since you are hosting your resume here, prospective employers will be able to see your information. 
+2.  *Create a new repository in your GitHub account to host your resume.* If you do not already have a ![GitHub](https://github.com) account, be sure to create one with professional information, as since you are hosting your resume here, prospective employers will be able to see your information. It is recommended, as stated in Etter's book, that you create a central website rather than creating and distributing PDFs of your writing, and as such it is going to be a boon to have your resume hosted on a GitHub site like we are setting up.
+
+3.  *Add README.md and _config.yml files to your repository.* The _config.yml file will look something similar to the following: 
 
 
 - - -
