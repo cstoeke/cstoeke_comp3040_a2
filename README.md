@@ -33,7 +33,9 @@ This file's settings will be applied to any other pages you wish to host within 
 - - -
 ### More Resources: 
 https://www.markdownguide.org/cheat-sheet
+
 https://dillinger.io/
+
 https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
 ## Authors and Acknowledgments: 
@@ -46,6 +48,7 @@ https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/
 ### Author: 
 - Cain Stoeke
 
+### Acknowledgments: 
 Theme by ![mattgraham](https://twitter.com/mattgraham)
 
 Special thanks to Andrew Etter for his book *Modern Technical Writing*.
