@@ -1,7 +1,5 @@
----
 # Cain Stoeke
 ### cstoeke5@gmail.com
----
 
 **Education:**
 - University of Manitoba, Winnipeg, MB, 2018-present. Expected Major: Computer Science
