@@ -7,7 +7,6 @@ Relate the practical steps described above to the general principles of current 
 ### Prerequisites: 
 - A Markdown formatted resume (Example in mine: https://cstoeke.github.io/cstoeke_comp3040_a2/index )
 - A GitHub account
-- Jekyll 
 
 - - -
 ![animated gif](https://media.giphy.com/media/2WD7iXievQaqFm2T7p/giphy.gif)
